@@ -1,16 +1,16 @@
-### Hi there 👋
+   
 
-<!--
-**SH112-kr/SH112-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋  Hi there! I'm mobile app developer using Android and iOS. 🚀
+Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖
 
-Here are some ideas to get you started:
+I enjoy hiking, swimming, dive and surf. ⛰ 🏄
+I hope to develop every beautiful things. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪 Skills
+Platforms & Languages
+    
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+   
+
+Tools
+    
